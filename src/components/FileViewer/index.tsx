@@ -2,7 +2,7 @@ import React, { useState, useRef } from "react";
 import SelectionZone from "./SelectionZone";
 import { Anchor } from "../../types";
 import ZoneNameDialog from "./ZoneNameDialog";
-import wakecapLogo from "../../assets/WakeCap+Logo+Only+for+Black+BG.png";
+import wakecapLogo from "../../assets/WakeCap.png";
 const ANCHOR_DIAMETER = 0.05; // meters
 
 const FileViewer = () => {
